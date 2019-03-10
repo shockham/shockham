@@ -23,12 +23,12 @@
     </div>
     <div>
       nav:
-      <n-link
-        to="/"
-      >home</n-link>
-      <n-link
-        to="/games"
-      >games</n-link>
+      <n-link to="/">
+        home
+      </n-link>
+      <n-link to="/games">
+        games
+      </n-link>
     </div>
   </div>
 </template>
